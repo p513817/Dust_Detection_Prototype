@@ -18,7 +18,7 @@ Detecting dust with opencv algorithm and deep learning
 **展示專案的技術概念**
 
 ### 介紹
-透過 AI 影像辨識 加上 CV 影像演算法，將能偵測特定區域的粉塵狀況
+透過 AI 影像辨識 加上 CV 影像演算法，將能偵測特定區域的粉塵狀況 \n
 若偵測到粉塵則發出警告因並開啟噴嘴進行清掃
 
 ### 軟體技術
