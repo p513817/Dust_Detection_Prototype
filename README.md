@@ -6,8 +6,6 @@ Detecting dust with opencv algorithm and deep learning
 | 所屬單位  | Cavedu 教育團隊 |
 | 開發日期  | 11001 |
 
-### ROAD CONDITION
-
 ![image](figures/dust_detection_demo_gif.gif)
 
 # 粉塵偵測 ( 原型 )
